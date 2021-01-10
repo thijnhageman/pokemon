@@ -4,7 +4,7 @@
 
 Dit is tekst
 
-![Bulbasaur](./Bulbasaur.png)
+![Bulbasaur](./pics/Bulbasaur.png)
 
 
 ## tweede titel
