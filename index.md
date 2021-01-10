@@ -29,9 +29,9 @@
 
 ![Squirtle](./pics/Squirtle.png)
 
+## Wartortle
 
-
-
+![Wartortle](./pics/Wartortle.png)
 
 
 
