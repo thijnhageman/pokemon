@@ -4,7 +4,11 @@
 
 Dit is tekst
 
-![Bulbasaur](./Bulbasaur.jpg)
+![Bulbasaur](./Bulbasaur.png)
 
+
+## tweede titel
+
+bla
 
 ---
