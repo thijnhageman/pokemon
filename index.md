@@ -21,8 +21,9 @@
 
 ![Charmeleon](./pics/Charmeleon.png)
 
+## Charizard
 
-
+![Charizard](./pics/Charizard.png)
 
 ---
 
