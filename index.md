@@ -13,4 +13,9 @@
 
 ![Venusaur](./pics/Venusaur.png)
 
+## Charmander
+
+![Charmander](./pics/Charmander.png)
+
 ---
+
