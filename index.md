@@ -9,8 +9,8 @@
 
 ![Ivysaur](./pics/Ivysaur.png)
 
-## Venasaur
+## Venusaur
 
-![Venasaur](./pics/Venasaur.png)
+![Venusaur](./pics/Venusaur.png)
 
 ---
