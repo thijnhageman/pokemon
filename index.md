@@ -1,14 +1,12 @@
 # Pokemon
 
-## Dit is een kleine titel
-
-Dit is tekst
+## Bulbasaur
 
 ![Bulbasaur](./pics/Bulbasaur.png)
 
 
-## tweede titel
+## Ivysaur
 
-bla
+![Ivysaur](./pics/Ivysaur.png)
 
 ---
