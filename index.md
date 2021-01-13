@@ -60,6 +60,13 @@
 
 ![Beedril](./pics/Beedril.png)
 
+## Pidgey
+
+![Pidgey](./pics/Pidgey.png)
+
+
+
+
 
 
 ---
