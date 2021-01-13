@@ -52,9 +52,9 @@
 
 ![Weedle](./pics/Weedle.png)
 
+## Kakuna
 
-
-
+![Kakuna](./pics/Kakuna.png)
 
 
 
