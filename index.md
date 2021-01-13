@@ -56,9 +56,9 @@
 
 ![Kakuna](./pics/Kakuna.png)
 
+## Beedril
 
-
-
+![Beedril](./pics/Beedril.png)
 
 
 
