@@ -68,6 +68,9 @@
 
 ![Pidgeotto](./pics/Pidgeotto.png)
 
+## Pidgeot
+
+![pidgeot](./pics/Pidgeot.png)
 
 ---
 
