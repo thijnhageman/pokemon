@@ -84,7 +84,9 @@
 
 ![Spearow](./pics/Spearow.png)
 
+## Fearow
 
+![Fearow](./pics/Fearow.png)
 
 
 
