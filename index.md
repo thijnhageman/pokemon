@@ -88,7 +88,9 @@
 
 ![Fearow](./pics/Fearow.png)
 
+## Ekans
 
+![Ekans](./pics/Ekans.png)
 
 
 
