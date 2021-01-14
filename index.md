@@ -3,8 +3,6 @@
 Dit is de website van Thijn.  
 Hier vind je pokemon plaatjes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AgCQSf4bVrY&t" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Bulbasaur 001
 
 ![Bulbasaur](./pics/Bulbasaur.png)
