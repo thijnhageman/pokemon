@@ -80,7 +80,9 @@
 
 ![Raticate](./pics/Raticate.png)
 
+## Spearow
 
+![Spearow](./pics/Spearow.png)
 
 
 
