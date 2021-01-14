@@ -92,7 +92,9 @@
 
 ![Ekans](./pics/Ekans.png)
 
+## Arbok
 
+![Arbok](./pics/Arbok.png)
 
 
 
