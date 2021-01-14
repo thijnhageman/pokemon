@@ -155,9 +155,9 @@ Hier vind je pokemon plaatjes.
 
 ![Ninetales](./pics/Ninetales.png)
 
-## Jigglypuff
+## Jigglypuff 039
 
-![Jigglypuff](./pics/Jigglypuff
+![Jigglypuff](./pics/Jigglypuff.png)
 
 
 ---
