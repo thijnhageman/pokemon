@@ -159,6 +159,9 @@ Hier vind je pokemon plaatjes.
 
 ![Jigglypuff](./pics/Jigglypuff.png)
 
+## Wigglytuff 040
+
+![Wigglytuff](./pics/Wigglytuff.png)
 
 ---
 
