@@ -96,9 +96,9 @@
 
 ![Arbok](./pics/Arbok.png)
 
+## Pikachu
 
-
-
+![Pikachu](./pics/Pikachu.png)
 
 
 
