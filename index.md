@@ -100,9 +100,9 @@
 
 ![Pikachu](./pics/Pikachu.png)
 
+## Raichu
 
-
-
+![Raichu](./pics/Raichu.png)
 
 
 
