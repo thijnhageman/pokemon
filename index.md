@@ -3,11 +3,7 @@
 Dit is de website van Thijn.
 Hier vind je alle pokemons.
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=AgCQSf4bVrY&t=147s" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=AgCQSf4bVrY&t/0.jpg)](https://www.youtube.com/watch?v=AgCQSf4bVrY&t)
 
 ## Bulbasaur 001
 
