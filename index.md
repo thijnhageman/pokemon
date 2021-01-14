@@ -116,7 +116,9 @@
 
 ![Nidoran](./pics/Nidoran_f.png)
 
+## Nidorina
 
+![Nidorina](./pics/Nidorina.png)
 
 
 
