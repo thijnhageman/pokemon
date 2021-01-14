@@ -76,6 +76,25 @@
 
 ![Rattata](./pics/Rattata.png)
 
+## Raticate
+
+![Raticate](./pics/Raticate.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
