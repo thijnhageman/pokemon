@@ -114,7 +114,9 @@
 
 ##  Nidoran♀
 
-![Nidoran](./pics/Nidoran.png)
+![Nidoran](./pics/Nidoran_f.png)
+
+
 
 
 
