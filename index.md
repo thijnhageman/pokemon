@@ -124,9 +124,9 @@
 
 ![Nidoqueen](./pics/Nidoqueen.png)
 
+## Nidoran♂
 
-
-
+![Nidoran](./pics/Nidoran_m.png)
 
 
 
