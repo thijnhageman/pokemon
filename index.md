@@ -1,9 +1,9 @@
 # Pokemon
 
-Dit is de website van Thijn.
+Dit is de website van Thijn.  
 Hier vind je alle pokemons.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=AgCQSf4bVrY&t/0.jpg)](https://www.youtube.com/watch?v=AgCQSf4bVrY&t)
+[![Pokemon filmpje](https://img.youtube.com/vi/https://www.youtube.com/watch?v=AgCQSf4bVrY&t.jpg)](https://www.youtube.com/watch?v=AgCQSf4bVrY&t)
 
 ## Bulbasaur 001
 
