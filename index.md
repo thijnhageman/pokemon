@@ -139,6 +139,12 @@ Hier vind je pokemon plaatjes.
 
 ![Nidoking](./pics/Nidoking.png)
 
+## Clafairy 035
+
+![Clafairy](./pics/Clafairy.png)
+
+
+
 
 
 ---
