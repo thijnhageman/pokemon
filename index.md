@@ -128,9 +128,9 @@
 
 ![Nidoran](./pics/Nidoran_m.png)
 
+## Nidorino
 
-
-
+![Nidorino](./pics/Nidorino.png)
 
 
 
