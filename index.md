@@ -147,13 +147,13 @@ Hier vind je pokemon plaatjes.
 
 ![Clefable](./pics/Clefable.png)
 
-## Vulpix
+## Vulpixn 037
 
 ![Vulpix](./pics/Vulpix.png)
 
+## Ninetales 038
 
-
-
+![Ninetales](./pics/Ninetales.png)
 
 
 
