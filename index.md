@@ -2,6 +2,11 @@
 
 ## Bulbasaur 001
 
+1. bla
+2. gf
+3. fg
+5. fb
+
 ![Bulbasaur](./pics/Bulbasaur.png)
 
 ## Ivysaur 002
