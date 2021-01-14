@@ -120,9 +120,9 @@
 
 ![Nidorina](./pics/Nidorina.png)
 
+## Nidoqueen
 
-
-
+![Nidoqueen](./pics/Nidoqueen.png)
 
 
 
