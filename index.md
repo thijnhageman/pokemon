@@ -145,7 +145,7 @@ Hier vind je pokemon plaatjes.
 
 ## Clefable 036
 
-![Clefable](./pics/Clafable.png)
+![Clefable](./pics/Clefable.png)
 
 ---
 
