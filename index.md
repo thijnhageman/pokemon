@@ -1,11 +1,15 @@
 # Pokemon
 
-## Bulbasaur 001
+Dit is de website van Thijn.
+Hier vind je alle pokemons.
 
-1. bla
-2. gf
-3. fg
-5. fb
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=AgCQSf4bVrY&t=147s" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+## Bulbasaur 001
 
 ![Bulbasaur](./pics/Bulbasaur.png)
 
