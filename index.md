@@ -147,5 +147,18 @@ Hier vind je pokemon plaatjes.
 
 ![Clefable](./pics/Clefable.png)
 
+## Vulpix
+
+![Vulpix](./pics/Vulpix.png)
+
+
+
+
+
+
+
+
+
+
 ---
 
