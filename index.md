@@ -108,9 +108,9 @@
 
 ![Sandshrew](./pics/Sandshrew.png)
 
+## Sandslash
 
-
-
+![Sandslash](./pics/Sandslash.png)
 
 
 
