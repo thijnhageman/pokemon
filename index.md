@@ -72,5 +72,12 @@
 
 ![pidgeot](./pics/Pidgeot.png)
 
+## Rattata
+
+![Rattata](./pics/Rattata.png)
+
+
+
+
 ---
 
