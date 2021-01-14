@@ -132,9 +132,9 @@
 
 ![Nidorino](./pics/Nidorino.png)
 
+## Nidoking
 
-
-
+![Nidoking](./pics/Nidoking.png)
 
 
 
