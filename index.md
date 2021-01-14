@@ -143,9 +143,9 @@ Hier vind je pokemon plaatjes.
 
 ![Clefairy](./pics/Clefairy.png)
 
+## Clefable 036
 
-
-
+![Clefable](./pics/Clafable.png)
 
 ---
 
