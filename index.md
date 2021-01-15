@@ -197,7 +197,7 @@ Hier vind je pokemon plaatjes.
 
 ## Venomoth 049
 
-
+![Venomoth](./pics/Venomoth.png)
 
 
 
