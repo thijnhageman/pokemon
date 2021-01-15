@@ -199,9 +199,9 @@ Hier vind je pokemon plaatjes.
 
 ![Venomoth](./pics/Venomoth.png)
 
+## Diglett 050
 
-
-
+![Diglett](./pics/Diglett.png)
 
 
 
