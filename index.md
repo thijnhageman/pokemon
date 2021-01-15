@@ -1,5 +1,5 @@
-<!doctype html>
-<html lang="en">
+
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,8 +16,8 @@
 </head>
 <body>
  
-<div id="dialog" title="Basic dialog">
-  <p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the &apos;x&apos; icon.</p>
+<div id="dialog" title="Waarschuwing">
+  <p>Waarschuwing! Deze website maakt geen gebruik van cookies. </br> Cookies zijn om op te eten!</p>
 </div>
  
  
