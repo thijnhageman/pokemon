@@ -203,9 +203,9 @@ Hier vind je pokemon plaatjes.
 
 ![Diglett](./pics/Diglett.png)
 
+## Dugtrio 051
 
-
-
+![Dugtrio](./pics/Dugtrio.png)
 
 
 
