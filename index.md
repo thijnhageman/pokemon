@@ -3,6 +3,8 @@
 Dit is de website van Thijn.  
 Hier vind je pokemon plaatjes.
 
+[Shiny pokemon](./shiny.md)
+
 ## Bulbasaur 001
 
 ![Bulbasaur](./pics/Bulbasaur.png)
