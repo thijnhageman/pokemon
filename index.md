@@ -163,5 +163,16 @@ Hier vind je pokemon plaatjes.
 
 ![Wigglytuff](./pics/Wigglytuff.png)
 
+## Zubat 041
+
+![Zubat](./pics/Zubat.png)
+
+## Golbat 042
+
+![Golbat](./pics/Golbat.png)
+
+
+
+
 ---
 
