@@ -179,17 +179,17 @@ Hier vind je pokemon plaatjes.
 
 ![Gloom](./pics/Gloom.png)
 
-## Vileplume
+## Vileplume 045
 
 ![Vileplume](./pics/Vileplume.png)
 
+## Paras 046
 
+![Paras](./pics/Paras.png)
 
+## Parsect 047
 
-
-
-
-
+![Parasect](./pics/Parasect.png)
 
 
 
