@@ -171,6 +171,43 @@ Hier vind je pokemon plaatjes.
 
 ![Golbat](./pics/Golbat.png)
 
+## Oddish 043
+
+![Oddish](./pics/Oddish.png)
+
+## Gloom 044
+
+![Gloom](./pics/Gloom.png)
+
+## Vileplume
+
+![Vileplume](./pics/Vileplume.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
