@@ -211,5 +211,12 @@ Hier vind je pokemon plaatjes.
 
 ![Meowth](./pics/Meowth.png)
 
+## Persian 053
+
+![Persian](./pics/Persian.png)
+
+
+
+
 ---
 
