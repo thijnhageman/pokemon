@@ -3,9 +3,7 @@
 Dit is de website van Thijn.  
 Hier vind je pokemon plaatjes.  
 
-{% include youtubePlayer.html id=page.AgCQSf4bVrY %}
-
-Test
+[Link naar filmpje Youtube](https://www.youtube.com/watch?v=AgCQSf4bVrY)
 
 ## Bulbasaur 001
 
