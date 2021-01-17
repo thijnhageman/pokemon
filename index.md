@@ -237,7 +237,7 @@ Hier vind je pokemon plaatjes.
 
 ## Arcanine 059
 
-![Arcanine](./pics/Arcaninine.png)
+![Arcanine](./pics/Arcanine.png)
 
 
 
