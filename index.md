@@ -207,9 +207,9 @@ Hier vind je pokemon plaatjes.
 
 ![Dugtrio](./pics/Dugtrio.png)
 
+## Meowth 052
 
-
-
+![Meowth](./pics/Meowth.png)
 
 ---
 
