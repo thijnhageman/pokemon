@@ -215,7 +215,13 @@ Hier vind je pokemon plaatjes.
 
 ![Persian](./pics/Persian.png)
 
+## Psyduck
 
+![Psyduck](./pics/Psyduck.png)
+
+## Golduck
+
+![Golduck](./pics/Golduck.png)
 
 
 ---
