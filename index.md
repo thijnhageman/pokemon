@@ -215,27 +215,27 @@ Hier vind je pokemon plaatjes.
 
 ![Persian](./pics/Persian.png)
 
-## Psyduck
+## Psyduck 054
 
 ![Psyduck](./pics/Psyduck.png)
 
-## Golduck
+## Golduck 055
 
 ![Golduck](./pics/Golduck.png)
 
-## Mankey
+## Mankey 056
 
 ![Mankey](./pics/Mankey.png)
 
-## Primeape
+## Primeape 057
 
 ![Primeape](./pics/Primeape.png)
 
-## Growlithe
+## Growlithe 058
 
 ![Growlithe](./pics/Growlithe.png)
 
-## Arcanine
+## Arcanine 059
 
 ![Arcanine](./pics/Arcanine.png)
 
@@ -246,8 +246,6 @@ Hier vind je pokemon plaatjes.
   {% endif %}
 {% endfor %}
 
-
-klaar
 
 
 
