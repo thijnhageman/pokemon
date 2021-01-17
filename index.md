@@ -231,13 +231,13 @@ Hier vind je pokemon plaatjes.
 
 ![Primeape](./pics/Primeape.png)
 
+## Growlithe
 
+![Growlithe](./pics/Growlithe.png)
 
+## Arcanine
 
-
-
-
-
+![Arcanine](./pics/Arcanine.png)
 
 
 
