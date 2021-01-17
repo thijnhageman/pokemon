@@ -223,6 +223,44 @@ Hier vind je pokemon plaatjes.
 
 ![Golduck](./pics/Golduck.png)
 
+## Mankey
+
+![Mankey](./pics/Mankey.png)
+
+## Primeape
+
+![Primeape](./pics/Primeape.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
