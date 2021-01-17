@@ -240,10 +240,14 @@ Hier vind je pokemon plaatjes.
 ![Arcanine](./pics/Arcanine.png)
 
 
+{% for image in site.static_files %}
+  {% if image.path contains 'pics' %}
+    <img src="{{ site.baseurl }}{{ image.path }}"alt="image" />
+  {% endif %}
+{% endfor %}
 
 
-
-
+klaar
 
 
 
