@@ -297,7 +297,7 @@ Hier vind je pokemon plaatjes.
 
 ![Tentacruel](./pics/Tentacruel.png)
 
-
+[klik hier](https://www.youtube.com/watch?v=O-o7knB5bYk)
 
 
 
