@@ -257,7 +257,15 @@ Hier vind je pokemon plaatjes.
 
 ![Abra](./pics/Abra.png)
 
-
+## Kadabra 064    
+    
+![Kadabra](./pics/Kadabra.png)    
+    
+    
+    
+    
+    
+    
 
 ---
 
