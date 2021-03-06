@@ -269,13 +269,13 @@ Hier vind je pokemon plaatjes.
 
 ![Machop](./pics/Machop.png)
 
+## Machoke 067
 
+![Machoke](./pics/Machoke.png)
 
+## Machamp 068
 
-
-
-
-
+![Machamp](./pics/Machamp.png)
 
 
 
