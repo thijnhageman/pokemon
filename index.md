@@ -261,9 +261,9 @@ Hier vind je pokemon plaatjes.
     
 ![Kadabra](./pics/Kadabra.png)    
     
+## Alakazam 065   
     
-    
-    
+![Alakazam](./pics/Alakazam.png)    
     
     
 
