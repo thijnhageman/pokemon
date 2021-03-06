@@ -241,9 +241,9 @@ Hier vind je pokemon plaatjes.
 
 ![Arcanine](./pics/Arcanine.png)
 
+## Poliwag
 
-
-
+![Poliwag](./pics/Poliwag.png)
 
 
 
