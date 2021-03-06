@@ -289,13 +289,13 @@ Hier vind je pokemon plaatjes.
 
 ![Victreebel](./pics/Victreebel.png)
 
+## Tentacool 072
 
+![tentacool](./pics/Tentacool.png)
 
+## Tentacruel 073
 
-
-
-
-
+![Tentacruel](./pics/Tentacruel.png)
 
 
 
