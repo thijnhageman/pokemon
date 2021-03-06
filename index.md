@@ -249,9 +249,9 @@ Hier vind je pokemon plaatjes.
 
 ![Poliwirhl](./pics/Poliwhirl.png)
 
+## Poliwrath
 
-
-
+![Poliwrath](./pics/Poliwrath.png)
 
 
 
