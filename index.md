@@ -253,9 +253,9 @@ Hier vind je pokemon plaatjes.
 
 ![Poliwrath](./pics/Poliwrath.png)
 
+## Abra
 
-
-
+![Abra](./pics/Abra.png)
 
 
 
