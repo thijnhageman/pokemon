@@ -277,13 +277,13 @@ Hier vind je pokemon plaatjes.
 
 ![Machamp](./pics/Machamp.png)
 
+## Bellsprout 069
 
+![Bellsprout](./pics/Bellsprout.png)
 
+## Weepinbell 070
 
-
-
-
-
+![Weepinbell](./pics/Weepinbell.png)
 
 
 
