@@ -264,8 +264,62 @@ Hier vind je pokemon plaatjes.
 ## Alakazam 065   
     
 ![Alakazam](./pics/Alakazam.png)    
-    
-    
+       
+## Machop 066
+
+![Machop](./pics/Machop.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
