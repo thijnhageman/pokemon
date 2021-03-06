@@ -241,19 +241,19 @@ Hier vind je pokemon plaatjes.
 
 ![Arcanine](./pics/Arcanine.png)
 
-## Poliwag
+## Poliwag 060
 
 ![Poliwag](./pics/Poliwag.png)
 
-## Poliwhirl
+## Poliwhirl 061
 
 ![Poliwirhl](./pics/Poliwhirl.png)
 
-## Poliwrath
+## Poliwrath 062
 
 ![Poliwrath](./pics/Poliwrath.png)
 
-## Abra
+## Abra 063
 
 ![Abra](./pics/Abra.png)
 
