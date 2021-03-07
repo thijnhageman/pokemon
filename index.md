@@ -319,13 +319,13 @@ Hier vind je pokemon plaatjes.
 
 ![Rapidash](./pics/Rapidash.png)
 
+## Slowpoke 079
 
+![slowpoke](./pics/Slowpoke.png)
 
+## Slowbro 080
 
-
-
-
-
+![Slowbro](./pics/Slowbro.png)
 
 
 
