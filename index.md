@@ -327,17 +327,17 @@ Hier vind je pokemon plaatjes.
 
 ![Slowbro](./pics/Slowbro.png)
 
+## Magnemite 081
 
+![Magnemite](./pics/Magnemite.png)
 
+## Magneton 082
 
+![Magneton](./pics/Magneton.png)
 
+## Farfetch´d
 
-
-
-
-
-
-
+![Farfetch´d](./pics/kip.png)
 
 
 
