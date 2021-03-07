@@ -311,9 +311,9 @@ Hier vind je pokemon plaatjes.
 
 ![Golem](./pics/Golem.png)
 
+## Ponyta 077
 
-
-
+![Ponyta](./pics/Ponyta.png)
 
 
 
