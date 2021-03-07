@@ -347,11 +347,21 @@ Hier vind je pokemon plaatjes.
 
 ![Dodrio](./pics/Dodrio.png)
 
+## Seel 086
 
+![Seel](./pics/Seel.png)
 
+## Dewgong 087
 
+![Dewgong](./pics/Dewgong.png)
 
+## Grimmer 088
 
+![Grimmer](./pics/Grimmer.png)
+
+## Muk 089
+
+![Muk](./pics/Muk.png)
 
 
 
