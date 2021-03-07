@@ -309,7 +309,7 @@ Hier vind je pokemon plaatjes.
 
 ## Golem 076
 
-![Golem](./pics/golem.png)
+![Golem](./pics/Golem.png)
 
 
 
