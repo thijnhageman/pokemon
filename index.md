@@ -299,17 +299,17 @@ Hier vind je pokemon plaatjes.
 
 [klik hier](https://www.youtube.com/watch?v=O-o7knB5bYk)
 
+## Geodude 074
 
+![Geodude](./pics/Geodude.png)
 
+## Graveler 075
 
+![Graveler](./pics/Graveler.png)
 
+## Golem 076
 
-
-
-
-
-
-
+![Golem](./pics/golem.png)
 
 
 
