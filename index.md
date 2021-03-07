@@ -335,17 +335,17 @@ Hier vind je pokemon plaatjes.
 
 ![Magneton](./pics/Magneton.png)
 
-## Farfetch´d
+## Farfetch´d 083
 
 ![Farfetch´d](./pics/kip.png)
 
+## Doduo 084
 
+![Doduo](./pics/Doduo.png)
 
+## Dodrio 085
 
-
-
-
-
+![Dodrio](./pics/Dodrio.png)
 
 
 
