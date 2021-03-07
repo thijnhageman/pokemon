@@ -363,13 +363,13 @@ Hier vind je pokemon plaatjes.
 
 ![Muk](./pics/Muk.png)
 
+## Shellder 090
 
+![Shellder](./pics/shellder.png)
 
+## Cloyster 091
 
-
-
-
-
+![Cloyster](./pics/cloyster.png)
 
 
 
