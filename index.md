@@ -355,9 +355,9 @@ Hier vind je pokemon plaatjes.
 
 ![Dewgong](./pics/Dewgong.png)
 
-## Grimmer 088
+## Grimer 088
 
-![Grimmer](./pics/Grimmer.png)
+![Grimer](./pics/Grimer.png)
 
 ## Muk 089
 
