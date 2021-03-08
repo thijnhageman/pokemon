@@ -401,10 +401,11 @@ Hier vind je pokemon plaatjes.
 ## Electrode 101
 ![Electrode](./pics/electrode.png)
 
+## Exeggcute 102
+![Exeggcute](./pics/exeggcute.png)
 
-
-
-
+## Exeggutor 103
+![Exeggutor](./pics/exeggutor.png)
 
 
 
