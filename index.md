@@ -407,10 +407,11 @@ Hier vind je pokemon plaatjes.
 ## Exeggutor 103
 ![Exeggutor](./pics/exeggutor.png)
 
+## Cubone 104
+![Cubone](./pics/cubone.png)
 
-
-
-
+## Marowak 105
+![Marowak](./pics/marowak.png)
 
 
 
