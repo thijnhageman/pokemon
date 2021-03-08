@@ -395,10 +395,11 @@ Hier vind je pokemon plaatjes.
 ## Kingler 099
 ![Kingler](./pics/kingler.png)
 
+## Voltorb 100
+![Voltorb](./pics/voltorb.png)
 
-
-
-
+## Electrode 101
+![Electrode](./pics/electrode.png)
 
 
 
