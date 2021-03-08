@@ -389,11 +389,11 @@ Hier vind je pokemon plaatjes.
 ## Hypno 097
 ![Hypno](./pics/hypno.png)
 
+## Krabby 098
+![Krabby](./pics/krabby.png)
 
-
-
-
-
+## Kingler 099
+![Kingler](./pics/kingler.png)
 
 
 
