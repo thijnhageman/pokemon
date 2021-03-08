@@ -419,16 +419,20 @@ Hier vind je pokemon plaatjes.
 ## Hitmonchan 107
 ![Hitmonchan](./pics/hitmonchan.png)
 
+## Lickitung 108
+![Lickitung](./pics/lickitung.png)
 
+## Koffing 109
+![Koffing](./pics/koffing.png)
 
+## Weezing 110
+![Weezing](./pics/weezing.png)
 
+## Rhyhorn 111
+![Rhyhorn](./pics/rhyhorn.png)
 
-
-
-
-
-
-
+## Rhydon 112
+![Rhydon](./pics/rhydon.png)
 
 
 
