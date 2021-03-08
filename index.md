@@ -371,13 +371,14 @@ Hier vind je pokemon plaatjes.
 
 ![Cloyster](./pics/cloyster.png)
 
+## Gastly 092
+![Gastly](./pics/gastly.png)
 
+##  Haunter 093
+![Haunter](./pics/haunter.png)
 
-
-
-
-
-
+## Gengar 094
+![Gengar](./pics/gengar.png)
 
 
 
