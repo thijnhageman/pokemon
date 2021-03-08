@@ -380,10 +380,14 @@ Hier vind je pokemon plaatjes.
 ## Gengar 094
 ![Gengar](./pics/gengar.png)
 
+## Onix 095
+![Onix](./pics/onix.png)
 
+## Drowzee 096
+![Drowzee](./pics/drowzee.png)
 
-
-
+## Hypno 097
+![Hypno](./pics/hypno.png)
 
 
 
@@ -457,4 +461,3 @@ Hier vind je pokemon plaatjes.
 
 
 ---
-
