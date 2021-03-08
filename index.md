@@ -417,7 +417,7 @@ Hier vind je pokemon plaatjes.
 ![Hitmonlee](./pics/hitmonlee.png)
 
 ## Hitmonchan 107
-1[Hitmonchan](./pics/hitmonchan.png)
+![Hitmonchan](./pics/hitmonchan.png)
 
 
 
