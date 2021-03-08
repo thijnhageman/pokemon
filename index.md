@@ -413,9 +413,11 @@ Hier vind je pokemon plaatjes.
 ## Marowak 105
 ![Marowak](./pics/marowak.png)
 
+## Hitmonlee 106
+![Hitmonlee](./pics/hitmonlee.png)
 
-
-
+## Hitmonchan 107
+1[Hitmonchan](./pics/hitmonchan.png)
 
 
 
